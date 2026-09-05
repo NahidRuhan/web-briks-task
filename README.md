@@ -77,7 +77,7 @@ Simply open your terminal, clone the repository, and run the Docker command:
 ```bash
 # Clone the repository
 git clone https://github.com/NahidRuhan/kanban-app.git
-cd kanban-app
+cd web-briks-task
 
 # Build and start the containers
 docker compose up -d --build
