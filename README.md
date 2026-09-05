@@ -76,8 +76,8 @@ The absolute easiest way to run the entire application locally is using Docker. 
 Simply open your terminal, clone the repository, and run the Docker command:
 ```bash
 # Clone the repository
-git clone https://github.com/NahidRuhan/kanban-app.git
-cd kanban-app
+git clone https://github.com/NahidRuhan/web-briks-task.git
+cd web-briks-task
 
 # Build and start the containers
 docker compose up -d --build
